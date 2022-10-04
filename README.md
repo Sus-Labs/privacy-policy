@@ -6,6 +6,7 @@ Heres data collected by Sus Labs Services:
 
 Sus Bot WhatsApp
 We try to not keep as much data but sadly we might have to keep some
+
 Note Sus Bot will warn you before you do anything with Sus Coins whether you agree to this or not 
 Phone Number - This is only to remember your Sus Coins as their is no proper id system on WhatsApp 
 
